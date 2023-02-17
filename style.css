@@ -1,6 +1,6 @@
 .bodyBackground 
 {
-    background-image:url(backg.jpg);
+    background-image:url(backg.jpg); Ajustar o nome do arquivo com a imagem de background
     background-position:center;
     background-size:cover;
 }
